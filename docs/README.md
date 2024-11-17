@@ -1,5 +1,6 @@
 ## MW PVP Server Bot
 **Based:** 
+- [node](https://github.com/nodejs/node)
 - [mineflayer](https://github.com/PrismarineJS/mineflayer/)
 - [pathfinder](https://github.com/Karang/mineflayer-pathfinder)
 - [prismarine-viewer](https://github.com/PrismarineJS/prismarine-viewer)
