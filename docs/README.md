@@ -1,4 +1,6 @@
 ## MW PVP Server Bot
+A mineflayer bot simple sample, Application in MW PVP Server
+
 **Based:** 
 - [node](https://github.com/nodejs/node)
 - [mineflayer](https://github.com/PrismarineJS/mineflayer/)
